@@ -9,7 +9,7 @@
 html {
   background-color: var(--bg-color);
   scroll-behavior: smooth;
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 * {
   font-family: "montserrat";
